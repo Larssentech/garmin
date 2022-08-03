@@ -1,4 +1,4 @@
-# garmin
+# Garmin
 Software development for Garmin GPSMAP
 
 README
