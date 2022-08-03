@@ -20,7 +20,7 @@ QBoard implements:
 
 Notes
 =====
-The architecture of the app is very much Object-Oriented. An alternative approach could have been a collection of classes with static methods (as instantiation is not needed ,strictly speaking) following a functional paradigm. 
+The architecture of the app is very much Object-Oriented. An alternative approach could have been a collection of classes with static methods (as instantiation is not needed, strictly speaking) following a functional paradigm. 
 
 Licensing
 =========
