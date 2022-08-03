@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="32" parent="globals/Qb" pc="268435456" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="34" parent="globals/Qb" pc="268435460" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="35" parent="globals/Qb" pc="268435508" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="37" parent="globals/Qb" pc="268435537" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="38" parent="globals/Qb" pc="268435562" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="41" parent="globals/Qb" pc="268435672" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="1" lineNum="42" parent="globals/Qb" pc="268435697" symbol="doPaintQBoardGrid"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="46" parent="globals/Qb" pc="268435789" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="48" parent="globals/Qb" pc="268435793" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="49" parent="globals/Qb" pc="268435841" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="51" parent="globals/Qb" pc="268435848" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="53" parent="globals/Qb" pc="268435873" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="55" parent="globals/Qb" pc="268435898" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="56" parent="globals/Qb" pc="268435934" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="58" parent="globals/Qb" pc="268435983" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="59" parent="globals/Qb" pc="268435987" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="60" parent="globals/Qb" pc="268435997" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="61" parent="globals/Qb" pc="268436024" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="2" lineNum="62" parent="globals/Qb" pc="268436095" symbol="doCharacterLayout"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="3" lineNum="30" parent="globals/Qb" pc="268444730" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/Qb.mc" id="4" lineNum="30" parent="globals/Qb" pc="268436132" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="6" lineNum="34" parent="globals/QBoardApp" pc="268436135" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="6" lineNum="35" parent="globals/QBoardApp" pc="268436139" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="7" lineNum="38" parent="globals/QBoardApp" pc="268436158" symbol="onStart"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="8" lineNum="41" parent="globals/QBoardApp" pc="268436163" symbol="onStop"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="9" lineNum="44" parent="globals/QBoardApp" pc="268436168" symbol="getInitialView"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="9" lineNum="47" parent="globals/QBoardApp" pc="268436172" symbol="getInitialView"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="9" lineNum="48" parent="globals/QBoardApp" pc="268436196" symbol="getInitialView"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="9" lineNum="49" parent="globals/QBoardApp" pc="268436220" symbol="getInitialView"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="10" lineNum="32" parent="globals/QBoardApp" pc="268444711" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="10" lineNum="32" parent="globals/QBoardApp" pc="268444711" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="11" lineNum="53" parent="globals" pc="268436248" symbol="getApp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/QBoardApp.mc" id="11" lineNum="54" parent="globals" pc="268436260" symbol="getApp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="13" lineNum="32" parent="globals/FrontDelegate" pc="268436277" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="13" lineNum="33" parent="globals/FrontDelegate" pc="268436281" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="14" lineNum="37" parent="globals/FrontDelegate" pc="268436300" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="14" lineNum="40" parent="globals/FrontDelegate" pc="268436304" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="14" lineNum="41" parent="globals/FrontDelegate" pc="268436328" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="14" lineNum="42" parent="globals/FrontDelegate" pc="268436354" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="14" lineNum="44" parent="globals/FrontDelegate" pc="268436386" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="15" lineNum="30" parent="globals/FrontDelegate" pc="268444772" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/FrontDelegate.mc" id="15" lineNum="30" parent="globals/FrontDelegate" pc="268444772" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="46" parent="globals/QBoardConst/statics" pc="268444881" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="53" parent="globals/QBoardConst/statics" pc="268444903" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="61" parent="globals/QBoardConst/statics" pc="268444923" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="68" parent="globals/QBoardConst/statics" pc="268444948" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="69" parent="globals/QBoardConst/statics" pc="268444977" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="71" parent="globals/QBoardConst/statics" pc="268445006" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="72" parent="globals/QBoardConst/statics" pc="268445031" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="74" parent="globals/QBoardConst/statics" pc="268445065" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="75" parent="globals/QBoardConst/statics" pc="268445096" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="77" parent="globals/QBoardConst/statics" pc="268445130" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="78" parent="globals/QBoardConst/statics" pc="268445161" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="81" parent="globals/QBoardConst/statics" pc="268445195" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="90" parent="globals/QBoardConst/statics" pc="268445226" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="93" parent="globals/QBoardConst/statics" pc="268445242" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="96" parent="globals/QBoardConst/statics" pc="268445285" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="100" parent="globals/QBoardConst/statics" pc="268445305" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="101" parent="globals/QBoardConst/statics" pc="268445325" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="104" parent="globals/QBoardConst/statics" pc="268445345" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="105" parent="globals/QBoardConst/statics" pc="268445365" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="106" parent="globals/QBoardConst/statics" pc="268445385" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="107" parent="globals/QBoardConst/statics" pc="268445405" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="108" parent="globals/QBoardConst/statics" pc="268445425" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="111" parent="globals/QBoardConst/statics" pc="268445445" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="112" parent="globals/QBoardConst/statics" pc="268445465" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="115" parent="globals/QBoardConst/statics" pc="268445485" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="116" parent="globals/QBoardConst/statics" pc="268445505" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="117" parent="globals/QBoardConst/statics" pc="268445525" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="118" parent="globals/QBoardConst/statics" pc="268445545" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="119" parent="globals/QBoardConst/statics" pc="268445565" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="120" parent="globals/QBoardConst/statics" pc="268445585" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="121" parent="globals/QBoardConst/statics" pc="268445605" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="124" parent="globals/QBoardConst/statics" pc="268445625" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="125" parent="globals/QBoardConst/statics" pc="268445645" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="126" parent="globals/QBoardConst/statics" pc="268445665" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="129" parent="globals/QBoardConst/statics" pc="268445685" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="130" parent="globals/QBoardConst/statics" pc="268445705" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="31" parent="globals/QBoardConst/statics" pc="268444881" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="18" lineNum="31" parent="globals/QBoardConst" pc="268444880" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoardConst.mc" id="19" lineNum="31" parent="globals/QBoardConst" pc="268436390" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="21" lineNum="33" parent="globals/QObjectHub" pc="268436393" symbol="getQBoxO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="21" lineNum="34" parent="globals/QObjectHub" pc="268436397" symbol="getQBoxO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="22" lineNum="37" parent="globals/QObjectHub" pc="268436407" symbol="getQManO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="22" lineNum="38" parent="globals/QObjectHub" pc="268436411" symbol="getQManO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="23" lineNum="30" parent="globals/QObjectHub" pc="268444541" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="23" lineNum="31" parent="globals/QObjectHub" pc="268444571" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="23" lineNum="28" parent="globals/QObjectHub" pc="268444541" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QObjectHub.mc" id="24" lineNum="28" parent="globals/QObjectHub" pc="268436421" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="26" lineNum="36" parent="globals/QPadUtil" pc="268436424" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="26" lineNum="38" parent="globals/QPadUtil" pc="268436428" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="26" lineNum="39" parent="globals/QPadUtil" pc="268436461" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="27" lineNum="43" parent="globals/QPadUtil" pc="268436495" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="27" lineNum="45" parent="globals/QPadUtil" pc="268436499" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="27" lineNum="47" parent="globals/QPadUtil" pc="268436506" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="27" lineNum="48" parent="globals/QPadUtil" pc="268436530" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="27" lineNum="49" parent="globals/QPadUtil" pc="268436568" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="27" lineNum="53" parent="globals/QPadUtil" pc="268436588" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="56" parent="globals/QPadUtil" pc="268436592" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="60" parent="globals/QPadUtil" pc="268436596" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="65" parent="globals/QPadUtil" pc="268436617" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="69" parent="globals/QPadUtil" pc="268436632" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="72" parent="globals/QPadUtil" pc="268436672" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="77" parent="globals/QPadUtil" pc="268436688" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="28" lineNum="79" parent="globals/QPadUtil" pc="268436756" symbol="getCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="29" lineNum="82" parent="globals/QPadUtil" pc="268436796" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="29" lineNum="84" parent="globals/QPadUtil" pc="268436800" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="29" lineNum="86" parent="globals/QPadUtil" pc="268436807" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="29" lineNum="87" parent="globals/QPadUtil" pc="268436822" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="29" lineNum="88" parent="globals/QPadUtil" pc="268436860" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="29" lineNum="92" parent="globals/QPadUtil" pc="268436880" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="95" parent="globals/QPadUtil" pc="268436884" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="99" parent="globals/QPadUtil" pc="268436888" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="104" parent="globals/QPadUtil" pc="268436925" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="108" parent="globals/QPadUtil" pc="268436942" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="111" parent="globals/QPadUtil" pc="268436982" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="116" parent="globals/QPadUtil" pc="268436998" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="30" lineNum="118" parent="globals/QPadUtil" pc="268437080" symbol="getEditCursorXY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="31" lineNum="122" parent="globals/QPadUtil" pc="268437120" symbol="getCursorX"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="31" lineNum="122" parent="globals/QPadUtil" pc="268437124" symbol="getCursorX"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="32" lineNum="123" parent="globals/QPadUtil" pc="268437134" symbol="getCursorY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="32" lineNum="123" parent="globals/QPadUtil" pc="268437138" symbol="getCursorY"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPadUtil.mc" id="33" lineNum="31" parent="globals/QPadUtil" pc="268444812" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="35" lineNum="40" parent="globals/TypeMan" pc="268437148" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="35" lineNum="41" parent="globals/TypeMan" pc="268437152" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="36" lineNum="44" parent="globals/TypeMan" pc="268437163" symbol="doAppendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="36" lineNum="45" parent="globals/TypeMan" pc="268437167" symbol="doAppendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="49" parent="globals/TypeMan" pc="268437211" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="52" parent="globals/TypeMan" pc="268437215" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="55" parent="globals/TypeMan" pc="268437219" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="58" parent="globals/TypeMan" pc="268437234" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="60" parent="globals/TypeMan" pc="268437240" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="63" parent="globals/TypeMan" pc="268437263" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="66" parent="globals/TypeMan" pc="268437280" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="69" parent="globals/TypeMan" pc="268437301" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="73" parent="globals/TypeMan" pc="268437345" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="76" parent="globals/TypeMan" pc="268437372" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="79" parent="globals/TypeMan" pc="268437395" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="83" parent="globals/TypeMan" pc="268437419" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="86" parent="globals/TypeMan" pc="268437447" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="89" parent="globals/TypeMan" pc="268437489" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="37" lineNum="90" parent="globals/TypeMan" pc="268437539" symbol="appendChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="93" parent="globals/TypeMan" pc="268437614" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="95" parent="globals/TypeMan" pc="268437618" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="98" parent="globals/TypeMan" pc="268437638" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="101" parent="globals/TypeMan" pc="268437659" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="104" parent="globals/TypeMan" pc="268437680" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="107" parent="globals/TypeMan" pc="268437704" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="109" parent="globals/TypeMan" pc="268437748" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="110" parent="globals/TypeMan" pc="268437776" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="111" parent="globals/TypeMan" pc="268437792" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="38" lineNum="113" parent="globals/TypeMan" pc="268437815" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="39" lineNum="118" parent="globals/TypeMan" pc="268437834" symbol="&lt;globals/TypeMan/&lt;&gt;textFits&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="39" lineNum="119" parent="globals/TypeMan" pc="268437838" symbol="&lt;globals/TypeMan/&lt;&gt;textFits&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="40" lineNum="122" parent="globals/TypeMan" pc="268437887" symbol="&lt;globals/TypeMan/&lt;&gt;getBoxedChar&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="40" lineNum="123" parent="globals/TypeMan" pc="268437891" symbol="&lt;globals/TypeMan/&lt;&gt;getBoxedChar&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="41" lineNum="127" parent="globals/TypeMan" pc="268437942" symbol="getIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="41" lineNum="128" parent="globals/TypeMan" pc="268437946" symbol="getIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="42" lineNum="131" parent="globals/TypeMan" pc="268437968" symbol="getFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="42" lineNum="132" parent="globals/TypeMan" pc="268437972" symbol="getFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="43" lineNum="136" parent="globals/TypeMan" pc="268437994" symbol="getQManO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="43" lineNum="136" parent="globals/TypeMan" pc="268437998" symbol="getQManO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="44" lineNum="137" parent="globals/TypeMan" pc="268438017" symbol="getQBoxO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="44" lineNum="137" parent="globals/TypeMan" pc="268438021" symbol="getQBoxO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="45" lineNum="138" parent="globals/TypeMan" pc="268438040" symbol="&lt;globals/TypeMan/&lt;&gt;getCurrentLine&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="45" lineNum="138" parent="globals/TypeMan" pc="268438044" symbol="&lt;globals/TypeMan/&lt;&gt;getCurrentLine&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="46" lineNum="139" parent="globals/TypeMan" pc="268438054" symbol="&lt;globals/TypeMan/&lt;&gt;getLineArray&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="46" lineNum="139" parent="globals/TypeMan" pc="268438058" symbol="&lt;globals/TypeMan/&lt;&gt;getLineArray&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="47" lineNum="35" parent="globals/TypeMan" pc="268444813" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="47" lineNum="38" parent="globals/TypeMan" pc="268444833" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/TypeMan.mc" id="47" lineNum="30" parent="globals/TypeMan" pc="268444813" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="49" lineNum="35" parent="globals/Front" pc="268438068" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="49" lineNum="36" parent="globals/Front" pc="268438072" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="39" parent="globals/Front" pc="268438091" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="41" parent="globals/Front" pc="268438095" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="42" parent="globals/Front" pc="268438131" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="44" parent="globals/Front" pc="268438143" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="45" parent="globals/Front" pc="268438179" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="47" parent="globals/Front" pc="268438250" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="48" parent="globals/Front" pc="268438286" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="49" parent="globals/Front" pc="268438357" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="51" parent="globals/Front" pc="268438428" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="52" parent="globals/Front" pc="268438464" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="54" parent="globals/Front" pc="268438535" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="50" lineNum="55" parent="globals/Front" pc="268438571" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="51" lineNum="33" parent="globals/Front" pc="268444861" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/_entry/Front.mc" id="51" lineNum="33" parent="globals/Front" pc="268444861" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="53" lineNum="34" parent="globals/QBox" pc="268438643" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="53" lineNum="35" parent="globals/QBox" pc="268438647" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="54" lineNum="38" parent="globals/QBox" pc="268438658" symbol="paintQBox"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="54" lineNum="40" parent="globals/QBox" pc="268438662" symbol="paintQBox"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="54" lineNum="41" parent="globals/QBox" pc="268438695" symbol="paintQBox"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="54" lineNum="44" parent="globals/QBox" pc="268438746" symbol="paintQBox"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="54" lineNum="47" parent="globals/QBox" pc="268438794" symbol="paintQBox"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="54" lineNum="48" parent="globals/QBox" pc="268438823" symbol="paintQBox"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="55" lineNum="58" parent="globals/QBox" pc="268439018" symbol="&lt;globals/QBox/&lt;&gt;getQBoard&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="55" lineNum="58" parent="globals/QBox" pc="268439022" symbol="&lt;globals/QBox/&lt;&gt;getQBoard&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBox.mc" id="56" lineNum="30" parent="globals/QBox" pc="268444710" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="58" lineNum="53" parent="globals/QBoard" pc="268439032" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="58" lineNum="55" parent="globals/QBoard" pc="268439036" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="58" lineNum="56" parent="globals/QBoard" pc="268439068" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="58" lineNum="57" parent="globals/QBoard" pc="268439098" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="58" lineNum="59" parent="globals/QBoard" pc="268439128" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="58" lineNum="61" parent="globals/QBoard" pc="268439160" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="64" parent="globals/QBoard" pc="268439179" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="65" parent="globals/QBoard" pc="268439183" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="68" parent="globals/QBoard" pc="268439199" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="69" parent="globals/QBoard" pc="268439235" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="71" parent="globals/QBoard" pc="268439247" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="72" parent="globals/QBoard" pc="268439283" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="75" parent="globals/QBoard" pc="268439374" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="78" parent="globals/QBoard" pc="268439395" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="78" parent="globals/QBoard" pc="268439419" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="79" parent="globals/QBoard" pc="268439443" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="82" parent="globals/QBoard" pc="268439464" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="83" parent="globals/QBoard" pc="268439485" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="59" lineNum="86" parent="globals/QBoard" pc="268439506" symbol="onUpdate"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="60" lineNum="89" parent="globals/QBoard" pc="268439525" symbol="getTextWH"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="60" lineNum="90" parent="globals/QBoard" pc="268439529" symbol="getTextWH"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="61" lineNum="93" parent="globals/QBoard" pc="268439568" symbol="getFontH"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="61" lineNum="94" parent="globals/QBoard" pc="268439572" symbol="getFontH"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="62" lineNum="98" parent="globals/QBoard" pc="268439609" symbol="&lt;globals/QBoard/&lt;&gt;getQPad&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="62" lineNum="98" parent="globals/QBoard" pc="268439613" symbol="&lt;globals/QBoard/&lt;&gt;getQPad&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="63" lineNum="99" parent="globals/QBoard" pc="268439623" symbol="&lt;globals/QBoard/&lt;&gt;getQb&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="63" lineNum="99" parent="globals/QBoard" pc="268439627" symbol="&lt;globals/QBoard/&lt;&gt;getQb&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="64" lineNum="100" parent="globals/QBoard" pc="268439637" symbol="getJoyStick"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="64" lineNum="100" parent="globals/QBoard" pc="268439641" symbol="getJoyStick"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="65" lineNum="40" parent="globals/QBoard" pc="268444665" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="66" lineNum="40" parent="globals/QBoard/statics" pc="268444684" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoard.mc" id="66" lineNum="40" parent="globals/QBoard" pc="268444665" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="68" lineNum="38" parent="globals/QBoxO" pc="268439651" symbol="getQBoxI"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="68" lineNum="39" parent="globals/QBoxO" pc="268439655" symbol="getQBoxI"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="69" lineNum="42" parent="globals/QBoxO" pc="268439693" symbol="addQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="69" lineNum="43" parent="globals/QBoxO" pc="268439697" symbol="addQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="70" lineNum="46" parent="globals/QBoxO" pc="268439717" symbol="dropQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="70" lineNum="47" parent="globals/QBoxO" pc="268439721" symbol="dropQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="71" lineNum="50" parent="globals/QBoxO" pc="268439741" symbol="addQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="71" lineNum="51" parent="globals/QBoxO" pc="268439745" symbol="addQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="72" lineNum="54" parent="globals/QBoxO" pc="268439765" symbol="dropQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="72" lineNum="55" parent="globals/QBoxO" pc="268439769" symbol="dropQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="73" lineNum="58" parent="globals/QBoxO" pc="268439789" symbol="sendToRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="73" lineNum="59" parent="globals/QBoxO" pc="268439793" symbol="sendToRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="74" lineNum="62" parent="globals/QBoxO" pc="268439814" symbol="sendToLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="74" lineNum="63" parent="globals/QBoxO" pc="268439818" symbol="sendToLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="75" lineNum="66" parent="globals/QBoxO" pc="268439832" symbol="sendToBottom"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="75" lineNum="67" parent="globals/QBoxO" pc="268439836" symbol="sendToBottom"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="76" lineNum="70" parent="globals/QBoxO" pc="268439857" symbol="sendToTop"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="76" lineNum="71" parent="globals/QBoxO" pc="268439861" symbol="sendToTop"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="77" lineNum="75" parent="globals/QBoxO" pc="268439875" symbol="isEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="77" lineNum="75" parent="globals/QBoxO" pc="268439879" symbol="isEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="78" lineNum="76" parent="globals/QBoxO" pc="268439889" symbol="setEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="78" lineNum="76" parent="globals/QBoxO" pc="268439893" symbol="setEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="79" lineNum="77" parent="globals/QBoxO" pc="268439904" symbol="getQBoxW"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="79" lineNum="77" parent="globals/QBoxO" pc="268439908" symbol="getQBoxW"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="80" lineNum="78" parent="globals/QBoxO" pc="268439922" symbol="getQBoxH"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="80" lineNum="78" parent="globals/QBoxO" pc="268439926" symbol="getQBoxH"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="81" lineNum="79" parent="globals/QBoxO" pc="268439940" symbol="getQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="81" lineNum="79" parent="globals/QBoxO" pc="268439944" symbol="getQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="82" lineNum="80" parent="globals/QBoxO" pc="268439954" symbol="getQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="82" lineNum="80" parent="globals/QBoxO" pc="268439958" symbol="getQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="83" lineNum="32" parent="globals/QBoxO" pc="268444731" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="83" lineNum="33" parent="globals/QBoxO" pc="268444751" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="83" lineNum="30" parent="globals/QBoxO" pc="268444731" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QBoxO.mc" id="84" lineNum="30" parent="globals/QBoxO" pc="268439968" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="86" lineNum="36" parent="globals/QManO" pc="268439971" symbol="addIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="86" lineNum="37" parent="globals/QManO" pc="268439975" symbol="addIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="87" lineNum="40" parent="globals/QManO" pc="268439995" symbol="dropIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="87" lineNum="41" parent="globals/QManO" pc="268439999" symbol="dropIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="88" lineNum="44" parent="globals/QManO" pc="268440019" symbol="resetIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="88" lineNum="45" parent="globals/QManO" pc="268440023" symbol="resetIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="89" lineNum="48" parent="globals/QManO" pc="268440052" symbol="append"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="89" lineNum="49" parent="globals/QManO" pc="268440056" symbol="append"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="90" lineNum="52" parent="globals/QManO" pc="268440073" symbol="removeLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="90" lineNum="53" parent="globals/QManO" pc="268440077" symbol="removeLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="91" lineNum="56" parent="globals/QManO" pc="268440131" symbol="getLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="91" lineNum="57" parent="globals/QManO" pc="268440135" symbol="getLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="92" lineNum="60" parent="globals/QManO" pc="268440194" symbol="getFrom"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="92" lineNum="61" parent="globals/QManO" pc="268440198" symbol="getFrom"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="93" lineNum="65" parent="globals/QManO" pc="268440236" symbol="getIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="93" lineNum="65" parent="globals/QManO" pc="268440240" symbol="getIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="94" lineNum="66" parent="globals/QManO" pc="268440250" symbol="getFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="94" lineNum="66" parent="globals/QManO" pc="268440254" symbol="getFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="95" lineNum="33" parent="globals/QManO" pc="268444603" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="95" lineNum="34" parent="globals/QManO" pc="268444623" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="95" lineNum="31" parent="globals/QManO" pc="268444603" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/model/QManO.mc" id="96" lineNum="31" parent="globals/QManO" pc="268440264" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="98" lineNum="36" parent="globals/QPad" pc="268440267" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="98" lineNum="37" parent="globals/QPad" pc="268440271" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="99" lineNum="41" parent="globals/QPad" pc="268440282" symbol="paint"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="99" lineNum="44" parent="globals/QPad" pc="268440286" symbol="paint"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="99" lineNum="45" parent="globals/QPad" pc="268440315" symbol="paint"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="99" lineNum="46" parent="globals/QPad" pc="268440363" symbol="paint"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="99" lineNum="49" parent="globals/QPad" pc="268440435" symbol="paint"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="99" lineNum="50" parent="globals/QPad" pc="268440483" symbol="paint"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="54" parent="globals/QPad" pc="268440556" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="57" parent="globals/QPad" pc="268440560" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="58" parent="globals/QPad" pc="268440609" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="61" parent="globals/QPad" pc="268440658" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="62" parent="globals/QPad" pc="268440706" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="65" parent="globals/QPad" pc="268440806" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="66" parent="globals/QPad" pc="268440843" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="100" lineNum="67" parent="globals/QPad" pc="268440891" symbol="doPrintFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="70" parent="globals/QPad" pc="268440961" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="73" parent="globals/QPad" pc="268440965" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="74" parent="globals/QPad" pc="268441014" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="77" parent="globals/QPad" pc="268441063" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="78" parent="globals/QPad" pc="268441111" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="81" parent="globals/QPad" pc="268441211" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="82" parent="globals/QPad" pc="268441248" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="101" lineNum="83" parent="globals/QPad" pc="268441296" symbol="doEditFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="102" lineNum="87" parent="globals/QPad" pc="268441399" symbol="&lt;globals/QPad/&lt;&gt;getQBoard&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="102" lineNum="87" parent="globals/QPad" pc="268441403" symbol="&lt;globals/QPad/&lt;&gt;getQBoard&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QPad.mc" id="103" lineNum="32" parent="globals/QPad" pc="268444602" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="105" lineNum="49" parent="globals/JoyStick" pc="268441413" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="105" lineNum="51" parent="globals/JoyStick" pc="268441417" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="105" lineNum="53" parent="globals/JoyStick" pc="268441441" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="105" lineNum="54" parent="globals/JoyStick" pc="268441473" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="58" parent="globals/JoyStick" pc="268441506" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="60" parent="globals/JoyStick" pc="268441510" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="62" parent="globals/JoyStick" pc="268441557" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="65" parent="globals/JoyStick" pc="268441581" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="67" parent="globals/JoyStick" pc="268441626" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="67" parent="globals/JoyStick" pc="268441641" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="106" lineNum="68" parent="globals/JoyStick" pc="268441665" symbol="toggleEditMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="107" lineNum="73" parent="globals/JoyStick" pc="268441681" symbol="moveQBoxUp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="107" lineNum="76" parent="globals/JoyStick" pc="268441685" symbol="moveQBoxUp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="107" lineNum="77" parent="globals/JoyStick" pc="268441723" symbol="moveQBoxUp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="107" lineNum="81" parent="globals/JoyStick" pc="268441756" symbol="moveQBoxUp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="107" lineNum="84" parent="globals/JoyStick" pc="268441786" symbol="moveQBoxUp"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="108" lineNum="87" parent="globals/JoyStick" pc="268441803" symbol="moveQBoxDown"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="108" lineNum="90" parent="globals/JoyStick" pc="268441807" symbol="moveQBoxDown"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="108" lineNum="91" parent="globals/JoyStick" pc="268441858" symbol="moveQBoxDown"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="108" lineNum="95" parent="globals/JoyStick" pc="268441891" symbol="moveQBoxDown"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="108" lineNum="97" parent="globals/JoyStick" pc="268441921" symbol="moveQBoxDown"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="109" lineNum="100" parent="globals/JoyStick" pc="268441938" symbol="moveQBoxLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="109" lineNum="103" parent="globals/JoyStick" pc="268441942" symbol="moveQBoxLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="109" lineNum="104" parent="globals/JoyStick" pc="268441980" symbol="moveQBoxLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="109" lineNum="108" parent="globals/JoyStick" pc="268442013" symbol="moveQBoxLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="109" lineNum="110" parent="globals/JoyStick" pc="268442043" symbol="moveQBoxLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="110" lineNum="113" parent="globals/JoyStick" pc="268442060" symbol="moveQBoxRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="110" lineNum="116" parent="globals/JoyStick" pc="268442064" symbol="moveQBoxRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="110" lineNum="117" parent="globals/JoyStick" pc="268442115" symbol="moveQBoxRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="110" lineNum="121" parent="globals/JoyStick" pc="268442148" symbol="moveQBoxRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="110" lineNum="123" parent="globals/JoyStick" pc="268442178" symbol="moveQBoxRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="111" lineNum="126" parent="globals/JoyStick" pc="268442195" symbol="moveCursorRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="111" lineNum="127" parent="globals/JoyStick" pc="268442199" symbol="moveCursorRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="112" lineNum="130" parent="globals/JoyStick" pc="268442233" symbol="moveCursorLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="112" lineNum="131" parent="globals/JoyStick" pc="268442237" symbol="moveCursorLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="113" lineNum="134" parent="globals/JoyStick" pc="268442271" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="113" lineNum="135" parent="globals/JoyStick" pc="268442275" symbol="deleteLast"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="114" lineNum="138" parent="globals/JoyStick" pc="268442297" symbol="addSpace"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="114" lineNum="139" parent="globals/JoyStick" pc="268442301" symbol="addSpace"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="115" lineNum="144" parent="globals/JoyStick" pc="268442335" symbol="getQBoxI"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="115" lineNum="145" parent="globals/JoyStick" pc="268442339" symbol="getQBoxI"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="116" lineNum="148" parent="globals/JoyStick" pc="268442370" symbol="getQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="116" lineNum="149" parent="globals/JoyStick" pc="268442374" symbol="getQBoxC"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="117" lineNum="152" parent="globals/JoyStick" pc="268442405" symbol="getQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="117" lineNum="153" parent="globals/JoyStick" pc="268442409" symbol="getQBoxR"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="118" lineNum="157" parent="globals/JoyStick" pc="268442440" symbol="getMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="118" lineNum="157" parent="globals/JoyStick" pc="268442444" symbol="getMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="119" lineNum="158" parent="globals/JoyStick" pc="268442454" symbol="setMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="119" lineNum="158" parent="globals/JoyStick" pc="268442458" symbol="setMode"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="120" lineNum="159" parent="globals/JoyStick" pc="268442469" symbol="getTypeMan"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="120" lineNum="159" parent="globals/JoyStick" pc="268442473" symbol="getTypeMan"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="121" lineNum="160" parent="globals/JoyStick" pc="268442483" symbol="getEditMan"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="121" lineNum="160" parent="globals/JoyStick" pc="268442487" symbol="getEditMan"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="122" lineNum="47" parent="globals/JoyStick" pc="268444644" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/JoyStick.mc" id="122" lineNum="43" parent="globals/JoyStick" pc="268444644" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="124" lineNum="37" parent="globals/EditMan" pc="268442497" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="124" lineNum="38" parent="globals/EditMan" pc="268442501" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="125" lineNum="41" parent="globals/EditMan" pc="268442512" symbol="resetCursorIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="125" lineNum="42" parent="globals/EditMan" pc="268442516" symbol="resetCursorIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="45" parent="globals/EditMan" pc="268442538" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="48" parent="globals/EditMan" pc="268442542" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="52" parent="globals/EditMan" pc="268442609" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="54" parent="globals/EditMan" pc="268442629" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="56" parent="globals/EditMan" pc="268442650" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="58" parent="globals/EditMan" pc="268442685" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="61" parent="globals/EditMan" pc="268442712" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="66" parent="globals/EditMan" pc="268442713" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="68" parent="globals/EditMan" pc="268442754" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="70" parent="globals/EditMan" pc="268442775" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="72" parent="globals/EditMan" pc="268442810" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="126" lineNum="75" parent="globals/EditMan" pc="268442837" symbol="moveCursor"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="127" lineNum="82" parent="globals/EditMan" pc="268442839" symbol="getCursedChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="127" lineNum="83" parent="globals/EditMan" pc="268442843" symbol="getCursedChar"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="128" lineNum="87" parent="globals/EditMan" pc="268442893" symbol="getIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="128" lineNum="88" parent="globals/EditMan" pc="268442897" symbol="getIx"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="129" lineNum="91" parent="globals/EditMan" pc="268442919" symbol="getFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="129" lineNum="92" parent="globals/EditMan" pc="268442923" symbol="getFullString"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="130" lineNum="96" parent="globals/EditMan" pc="268442945" symbol="getQManO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="130" lineNum="96" parent="globals/EditMan" pc="268442949" symbol="getQManO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="131" lineNum="97" parent="globals/EditMan" pc="268442968" symbol="getQBoxO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="131" lineNum="97" parent="globals/EditMan" pc="268442972" symbol="getQBoxO"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="132" lineNum="35" parent="globals/EditMan" pc="268444791" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/controller/EditMan.mc" id="132" lineNum="30" parent="globals/EditMan" pc="268444791" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="134" lineNum="35" parent="globals/QBoardDelegate" pc="268442991" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="134" lineNum="37" parent="globals/QBoardDelegate" pc="268442995" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="134" lineNum="39" parent="globals/QBoardDelegate" pc="268443005" symbol="initialize"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="42" parent="globals/QBoardDelegate" pc="268443024" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="44" parent="globals/QBoardDelegate" pc="268443028" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="46" parent="globals/QBoardDelegate" pc="268443041" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="58" parent="globals/QBoardDelegate" pc="268443235" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="50" parent="globals/QBoardDelegate" pc="268443241" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="51" parent="globals/QBoardDelegate" pc="268443253" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="52" parent="globals/QBoardDelegate" pc="268443265" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="53" parent="globals/QBoardDelegate" pc="268443277" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="54" parent="globals/QBoardDelegate" pc="268443289" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="55" parent="globals/QBoardDelegate" pc="268443301" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="135" lineNum="56" parent="globals/QBoardDelegate" pc="268443313" symbol="onKey"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="136" lineNum="63" parent="globals/QBoardDelegate" pc="268443329" symbol="onMenu"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="136" lineNum="65" parent="globals/QBoardDelegate" pc="268443333" symbol="onMenu"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="136" lineNum="68" parent="globals/QBoardDelegate" pc="268443366" symbol="onMenu"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="136" lineNum="69" parent="globals/QBoardDelegate" pc="268443400" symbol="onMenu"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="136" lineNum="73" parent="globals/QBoardDelegate" pc="268443486" symbol="onMenu"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="136" lineNum="74" parent="globals/QBoardDelegate" pc="268443502" symbol="onMenu"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="137" lineNum="78" parent="globals/QBoardDelegate" pc="268443506" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="137" lineNum="80" parent="globals/QBoardDelegate" pc="268443510" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="137" lineNum="81" parent="globals/QBoardDelegate" pc="268443543" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="137" lineNum="84" parent="globals/QBoardDelegate" pc="268443614" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="137" lineNum="85" parent="globals/QBoardDelegate" pc="268443630" symbol="onSelect"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="138" lineNum="89" parent="globals/QBoardDelegate" pc="268443634" symbol="onBack"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="138" lineNum="91" parent="globals/QBoardDelegate" pc="268443638" symbol="onBack"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="138" lineNum="92" parent="globals/QBoardDelegate" pc="268443666" symbol="onBack"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="139" lineNum="97" parent="globals/QBoardDelegate" pc="268443670" symbol="onNextPage"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="139" lineNum="98" parent="globals/QBoardDelegate" pc="268443674" symbol="onNextPage"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="140" lineNum="102" parent="globals/QBoardDelegate" pc="268443678" symbol="onPreviousPage"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="140" lineNum="103" parent="globals/QBoardDelegate" pc="268443682" symbol="onPreviousPage"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="141" lineNum="108" parent="globals/QBoardDelegate" pc="268443686" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doUp&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="141" lineNum="109" parent="globals/QBoardDelegate" pc="268443690" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doUp&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="141" lineNum="110" parent="globals/QBoardDelegate" pc="268443723" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doUp&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="141" lineNum="113" parent="globals/QBoardDelegate" pc="268443756" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doUp&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="142" lineNum="117" parent="globals/QBoardDelegate" pc="268443760" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDown&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="142" lineNum="118" parent="globals/QBoardDelegate" pc="268443764" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDown&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="142" lineNum="119" parent="globals/QBoardDelegate" pc="268443797" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDown&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="142" lineNum="122" parent="globals/QBoardDelegate" pc="268443830" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDown&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="143" lineNum="126" parent="globals/QBoardDelegate" pc="268443834" symbol="doRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="143" lineNum="128" parent="globals/QBoardDelegate" pc="268443838" symbol="doRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="143" lineNum="129" parent="globals/QBoardDelegate" pc="268443870" symbol="doRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="143" lineNum="133" parent="globals/QBoardDelegate" pc="268443903" symbol="doRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="143" lineNum="136" parent="globals/QBoardDelegate" pc="268443933" symbol="doRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="143" lineNum="137" parent="globals/QBoardDelegate" pc="268443949" symbol="doRight"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="144" lineNum="141" parent="globals/QBoardDelegate" pc="268443953" symbol="doLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="144" lineNum="143" parent="globals/QBoardDelegate" pc="268443957" symbol="doLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="144" lineNum="144" parent="globals/QBoardDelegate" pc="268443989" symbol="doLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="144" lineNum="148" parent="globals/QBoardDelegate" pc="268444022" symbol="doLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="144" lineNum="151" parent="globals/QBoardDelegate" pc="268444052" symbol="doLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="144" lineNum="152" parent="globals/QBoardDelegate" pc="268444068" symbol="doLeft"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="145" lineNum="155" parent="globals/QBoardDelegate" pc="268444072" symbol="doFind"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="145" lineNum="157" parent="globals/QBoardDelegate" pc="268444076" symbol="doFind"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="145" lineNum="159" parent="globals/QBoardDelegate" pc="268444106" symbol="doFind"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="145" lineNum="160" parent="globals/QBoardDelegate" pc="268444122" symbol="doFind"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="146" lineNum="163" parent="globals/QBoardDelegate" pc="268444126" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="146" lineNum="165" parent="globals/QBoardDelegate" pc="268444130" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="146" lineNum="166" parent="globals/QBoardDelegate" pc="268444163" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="146" lineNum="169" parent="globals/QBoardDelegate" pc="268444196" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="146" lineNum="170" parent="globals/QBoardDelegate" pc="268444212" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="147" lineNum="173" parent="globals/QBoardDelegate" pc="268444216" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="147" lineNum="175" parent="globals/QBoardDelegate" pc="268444220" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="147" lineNum="176" parent="globals/QBoardDelegate" pc="268444253" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="147" lineNum="179" parent="globals/QBoardDelegate" pc="268444286" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="147" lineNum="180" parent="globals/QBoardDelegate" pc="268444302" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="148" lineNum="184" parent="globals/QBoardDelegate" pc="268444306" symbol="getQBoard"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="148" lineNum="184" parent="globals/QBoardDelegate" pc="268444310" symbol="getQBoard"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="149" lineNum="31" parent="globals/QBoardDelegate" pc="268444522" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/avanz.io/Larssentech/GitHub/garmin/QBoardN/source/org/larssentech/garmin/qboard/view/QBoardDelegate.mc" id="149" lineNum="31" parent="globals/QBoardDelegate" pc="268444522" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="151" lineNum="2" parent="globals/Rez/Drawables" pc="268444704" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="152" lineNum="7" parent="globals/Rez/Fonts" pc="268444706" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="153" lineNum="9" parent="globals/Rez/JsonData" pc="268444708" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="154" lineNum="18" parent="globals/Rez/Layouts" pc="268444320" symbol="MainLayout"/>
+        <entry filename="Rez" id="154" lineNum="20" parent="globals/Rez/Layouts" pc="268444332" symbol="MainLayout"/>
+        <entry filename="Rez" id="154" lineNum="21" parent="globals/Rez/Layouts" pc="268444451" symbol="MainLayout"/>
+        <entry filename="Rez" id="154" lineNum="23" parent="globals/Rez/Layouts" pc="268444503" symbol="MainLayout"/>
+        <entry filename="Rez" id="155" lineNum="11" parent="globals/Rez/Layouts" pc="268444707" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="156" lineNum="28" parent="globals/Rez/Menus" pc="268444705" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="157" lineNum="30" parent="globals/Rez/Strings" pc="268444709" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="158" lineNum="1" parent="globals/Rez" pc="268444685" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="158" lineNum="1" parent="globals/Rez" pc="268444685" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="17" object="true" symbol="TypeMan"/>
+        <entry id="10" module="true" symbol="globals/QBoardConst"/>
+        <entry id="51" method="true" symbol="removeLast"/>
+        <entry field="true" id="77" symbol="joyStick"/>
+        <entry id="8390043" method="true" symbol="setMode"/>
+        <entry field="true" id="194" symbol="CLR_QB_CHARS_BG"/>
+        <entry field="true" id="95" symbol="&lt;globals/QBoxO/&lt;&gt;qBoxR&gt;"/>
+        <entry field="true" id="137" symbol="CURSOR"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="182" symbol="CLR_FRONT_MADE_BY"/>
+        <entry id="119" method="true" symbol="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;"/>
+        <entry field="true" id="184" symbol="CLR_QBOARD_BG"/>
+        <entry id="98" method="true" symbol="addQBoxR"/>
+        <entry id="100" method="true" symbol="addQBoxC"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="179" symbol="CLR_FRONT_BG"/>
+        <entry id="28" method="true" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doUp&gt;"/>
+        <entry field="true" id="186" symbol="CLR_QPAD_BORDER"/>
+        <entry id="129" method="true" symbol="&lt;globals/TypeMan/&lt;&gt;getBoxedChar&gt;"/>
+        <entry field="true" id="76" symbol="qBox"/>
+        <entry id="91" method="true" symbol="paintQBox"/>
+        <entry field="true" id="183" symbol="CLR_FRONT_VERSION"/>
+        <entry id="53" method="true" symbol="getFrom"/>
+        <entry id="88" method="true" symbol="MainLayout"/>
+        <entry field="true" id="178" symbol="CLR_TRANSPARENT"/>
+        <entry id="35" method="true" symbol="getQBoard"/>
+        <entry field="true" id="167" symbol="QPAD_MARGIN_LEFT"/>
+        <entry field="true" id="90" symbol="&lt;globals/QBox/&lt;&gt;qBoard&gt;"/>
+        <entry field="true" id="134" symbol="TITLE"/>
+        <entry field="true" id="96" symbol="&lt;globals/QBoxO/&lt;&gt;qBoxC&gt;"/>
+        <entry id="65" method="true" symbol="moveCursorLeft"/>
+        <entry id="94" method="true" symbol="doCharacterLayout"/>
+        <entry id="23" object="true" symbol="QPad"/>
+        <entry field="true" id="40" symbol="&lt;globals/QPad/&lt;&gt;qBoard&gt;"/>
+        <entry field="true" id="159" symbol="QBOARD_COL_W"/>
+        <entry id="50" method="true" symbol="append"/>
+        <entry field="true" id="144" symbol="ORBITAL"/>
+        <entry id="130" method="true" symbol="&lt;globals/TypeMan/&lt;&gt;getCurrentLine&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="189" symbol="CLR_QPAD_CURSOR"/>
+        <entry id="13" object="true" symbol="FrontDelegate"/>
+        <entry id="32" method="true" symbol="doFind"/>
+        <entry id="25" object="true" symbol="EditMan"/>
+        <entry field="true" id="180" symbol="CLR_FRONT_TITLE"/>
+        <entry field="true" id="152" symbol="QBOARD_IX_MAX"/>
+        <entry field="true" id="89" symbol="AppName"/>
+        <entry id="43" method="true" symbol="doEditFullString"/>
+        <entry field="true" id="192" symbol="CLR_QPAD_EDIT_TEXT_BG"/>
+        <entry field="true" id="197" symbol="CRL_QBOX_INACTIVE"/>
+        <entry field="true" id="136" symbol="SUBTITLE_2"/>
+        <entry field="true" id="135" symbol="SUBTITLE_1"/>
+        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="19" object="true" symbol="QBox"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="59" method="true" symbol="toggleEditMode"/>
+        <entry id="92" method="true" symbol="&lt;globals/QBox/&lt;&gt;getQBoard&gt;"/>
+        <entry field="true" id="123" symbol="&lt;globals/TypeMan/&lt;&gt;qObjectHub&gt;"/>
+        <entry id="47" method="true" symbol="addIx"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="80" method="true" symbol="getJoyStick"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="49" method="true" symbol="resetIx"/>
+        <entry field="true" id="149" symbol="ZERO"/>
+        <entry field="true" id="157" symbol="DEVICE_HEIGHT0"/>
+        <entry field="true" id="196" symbol="CRL_QBOX_ACTIVE"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry id="104" method="true" symbol="sendToBottom"/>
+        <entry field="true" id="86" symbol="id_monkey"/>
+        <entry id="102" method="true" symbol="sendToRight"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="111" symbol="&lt;globals/EditMan/&lt;&gt;lastLine&gt;"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="142" symbol="EMPTY"/>
+        <entry field="true" id="172" symbol="QPAD_Y"/>
+        <entry field="true" id="171" symbol="QPAD_X"/>
+        <entry field="true" id="173" symbol="QPAD_W"/>
+        <entry field="true" id="174" symbol="QPAD_H"/>
+        <entry id="16" object="true" symbol="QPadUtil"/>
+        <entry id="20" object="true" symbol="QBoard"/>
+        <entry field="true" id="148" symbol="EDIT_MODE"/>
+        <entry id="131" method="true" symbol="&lt;globals/TypeMan/&lt;&gt;getLineArray&gt;"/>
+        <entry id="127" method="true" symbol="appendChar"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="83" method="true" symbol="getFontH"/>
+        <entry field="true" id="160" symbol="QBOARD_ROW_H"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="85" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="122" method="true" symbol="getCursorY"/>
+        <entry id="121" method="true" symbol="getCursorX"/>
+        <entry field="true" id="75" symbol="qB"/>
+        <entry field="true" id="143" symbol="NEW_LINE"/>
+        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="103" method="true" symbol="sendToLeft"/>
+        <entry id="128" method="true" symbol="&lt;globals/TypeMan/&lt;&gt;textFits&gt;"/>
+        <entry field="true" id="177" symbol="CLR_THEME_GREEN"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="176" symbol="FNT_STD"/>
+        <entry field="true" id="181" symbol="CLR_FRONT_TEXT"/>
+        <entry field="true" id="150" symbol="CURSOR_LEFT"/>
+        <entry field="true" id="195" symbol="CLR_QB_GRID"/>
+        <entry id="14" object="true" symbol="QBoardConst"/>
+        <entry id="48" method="true" symbol="dropIx"/>
+        <entry id="42" method="true" symbol="doPrintFullString"/>
+        <entry field="true" id="81" symbol="dc"/>
+        <entry id="82" method="true" symbol="getTextWH"/>
+        <entry field="true" id="116" symbol="cursorY"/>
+        <entry field="true" id="115" symbol="cursorX"/>
+        <entry id="72" method="true" symbol="getTypeMan"/>
+        <entry id="99" method="true" symbol="dropQBoxR"/>
+        <entry id="101" method="true" symbol="dropQBoxC"/>
+        <entry field="true" id="125" symbol="&lt;globals/TypeMan/&lt;&gt;lineArray&gt;"/>
+        <entry field="true" id="140" symbol="VERSION_S"/>
+        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="107" method="true" symbol="setEditMode"/>
+        <entry field="true" id="27" symbol="&lt;globals/QBoardDelegate/&lt;&gt;qBoard&gt;"/>
+        <entry id="22" object="true" symbol="QManO"/>
+        <entry id="26" object="true" symbol="QBoardDelegate"/>
+        <entry field="true" id="141" symbol="SPACE"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="110" symbol="&lt;globals/EditMan/&lt;&gt;qObjectHub&gt;"/>
+        <entry field="true" id="168" symbol="QPAD_MARGIN_RIGHT"/>
+        <entry id="11" object="true" symbol="Qb"/>
+        <entry field="true" id="124" symbol="&lt;globals/TypeMan/&lt;&gt;currentLine&gt;"/>
+        <entry field="true" id="133" symbol="QBOARD_CHARACTERS"/>
+        <entry id="114" method="true" symbol="getCursedChar"/>
+        <entry field="true" id="139" symbol="MADE_BY"/>
+        <entry id="15" object="true" symbol="QObjectHub"/>
+        <entry id="67" method="true" symbol="addSpace"/>
+        <entry field="true" id="164" symbol="QBOARD_END_Y"/>
+        <entry field="true" id="162" symbol="QBOARD_END_X"/>
+        <entry id="18" object="true" symbol="Front"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="37" symbol="&lt;globals/QObjectHub/&lt;&gt;qManO&gt;"/>
+        <entry field="true" id="154" symbol="QBOARD_COLS"/>
+        <entry id="62" method="true" symbol="moveQBoxLeft"/>
+        <entry field="true" id="132" symbol="VERSION"/>
+        <entry field="true" id="191" symbol="CLR_QPAD_CURSED_TEXT_BG"/>
+        <entry id="21" object="true" symbol="QBoxO"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="52" method="true" symbol="getLast"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="120" method="true" symbol="getEditCursorXY"/>
+        <entry field="true" id="188" symbol="CLR_QPAD_TEXT"/>
+        <entry id="39" method="true" symbol="getQManO"/>
+        <entry field="true" id="138" symbol="QB_VIEW_TITLE"/>
+        <entry id="106" method="true" symbol="isEditMode"/>
+        <entry id="78" method="true" symbol="&lt;globals/QBoard/&lt;&gt;getQPad&gt;"/>
+        <entry id="34" method="true" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;"/>
+        <entry id="71" method="true" symbol="getMode"/>
+        <entry id="12" object="true" symbol="QBoardApp"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="44" method="true" symbol="&lt;globals/QPad/&lt;&gt;getQBoard&gt;"/>
+        <entry field="true" id="156" symbol="QBOARD_AREA_Y"/>
+        <entry field="true" id="155" symbol="QBOARD_AREA_X"/>
+        <entry id="73" method="true" symbol="getEditMan"/>
+        <entry field="true" id="87" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="190" symbol="CLR_QPAD_CURSED_TEXT"/>
+        <entry field="true" id="46" symbol="&lt;globals/QManO/&lt;&gt;ix&gt;"/>
+        <entry field="true" id="97" symbol="&lt;globals/QBoxO/&lt;&gt;editMode&gt;"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="108" method="true" symbol="getQBoxW"/>
+        <entry id="70" method="true" symbol="getQBoxR"/>
+        <entry id="38" method="true" symbol="getQBoxO"/>
+        <entry id="68" method="true" symbol="getQBoxI"/>
+        <entry id="109" method="true" symbol="getQBoxH"/>
+        <entry id="69" method="true" symbol="getQBoxC"/>
+        <entry field="true" id="175" symbol="QPAD_X_SPACE"/>
+        <entry field="true" id="166" symbol="TEXT_POSITION_Y"/>
+        <entry field="true" id="165" symbol="TEXT_POSITION_X"/>
+        <entry field="true" id="163" symbol="QBOARD_START_Y"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="161" symbol="QBOARD_START_X"/>
+        <entry id="64" method="true" symbol="moveCursorRight"/>
+        <entry id="2" module="true" symbol="globals/QBoard"/>
+        <entry id="60" method="true" symbol="moveQBoxUp"/>
+        <entry id="63" method="true" symbol="moveQBoxRight"/>
+        <entry field="true" id="146" symbol="QBOARD_TITLE_Y"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="151" symbol="CURSOR_RIGHT"/>
+        <entry id="61" method="true" symbol="moveQBoxDown"/>
+        <entry id="79" method="true" symbol="&lt;globals/QBoard/&lt;&gt;getQb&gt;"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="30" method="true" symbol="doRight"/>
+        <entry id="31" method="true" symbol="doLeft"/>
+        <entry id="105" method="true" symbol="sendToTop"/>
+        <entry id="24" object="true" symbol="JoyStick"/>
+        <entry field="true" id="169" symbol="QPAD_MARGIN_TOP"/>
+        <entry field="true" id="187" symbol="CLR_QPAD_BG"/>
+        <entry field="true" id="153" symbol="QBOARD_ROWS"/>
+        <entry id="41" method="true" symbol="paint"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="126" method="true" symbol="doAppendChar"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="158" symbol="DEVICE_WIDTH0"/>
+        <entry id="117" method="true" symbol="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;"/>
+        <entry field="true" id="145" symbol="QB_CHAR_SIZE"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="29" method="true" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doDown&gt;"/>
+        <entry field="true" id="36" symbol="&lt;globals/QObjectHub/&lt;&gt;qBoxO&gt;"/>
+        <entry field="true" id="147" symbol="TYPE_MODE"/>
+        <entry field="true" id="56" symbol="&lt;globals/JoyStick/&lt;&gt;tMan&gt;"/>
+        <entry id="84" module="true" symbol="Layouts"/>
+        <entry field="true" id="45" symbol="&lt;globals/QManO/&lt;&gt;fullString&gt;"/>
+        <entry field="true" id="185" symbol="CLR_QBOARD_TITLE"/>
+        <entry id="54" method="true" symbol="getIx"/>
+        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="58" symbol="&lt;globals/JoyStick/&lt;&gt;mode&gt;"/>
+        <entry field="true" id="57" symbol="&lt;globals/JoyStick/&lt;&gt;eMan&gt;"/>
+        <entry id="33" method="true" symbol="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;"/>
+        <entry id="55" method="true" symbol="getFullString"/>
+        <entry field="true" id="170" symbol="QPAD_MARGIN_BOTTOM"/>
+        <entry field="true" id="193" symbol="CLR_QB_CHARS"/>
+        <entry id="66" method="true" symbol="deleteLast"/>
+        <entry id="118" method="true" symbol="getCursorXY"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry field="true" id="74" symbol="qPad"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="93" method="true" symbol="doPaintQBoardGrid"/>
+        <entry id="112" method="true" symbol="resetCursorIx"/>
+        <entry id="113" method="true" symbol="moveCursor"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435671" name="i" stackId="1" startPc="268435562"/>
+        <entry endPc="268435787" name="i" stackId="2" startPc="268435697"/>
+        <entry endPc="268436104" name="end" stackId="7" startPc="268435898"/>
+        <entry endPc="268436104" name="letterY" stackId="5" startPc="268435898"/>
+        <entry endPc="268436104" name="letterX" stackId="4" startPc="268435898"/>
+        <entry endPc="268436104" name="letter" stackId="8" startPc="268435898"/>
+        <entry endPc="268436104" name="start" stackId="6" startPc="268435898"/>
+        <entry endPc="268436117" name="j" stackId="3" startPc="268435898"/>
+        <entry endPc="268436130" name="i" stackId="2" startPc="268435873"/>
+        <entry endPc="268436130" name="base" stackId="1" startPc="268435793"/>
+        <entry arg="true" endPc="268436162" name="state" stackId="1" startPc="268436158"/>
+        <entry arg="true" endPc="268436167" name="state" stackId="1" startPc="268436163"/>
+        <entry endPc="268436246" name="del" stackId="2" startPc="268436172"/>
+        <entry endPc="268436246" name="view" stackId="1" startPc="268436172"/>
+        <entry endPc="268436388" name="qBoardDelegate" stackId="2" startPc="268436304"/>
+        <entry endPc="268436388" name="qBoard" stackId="1" startPc="268436304"/>
+        <entry endPc="268436587" name="i" stackId="3" startPc="268436530"/>
+        <entry endPc="268436590" name="lastLineStart" stackId="2" startPc="268436499"/>
+        <entry arg="true" endPc="268436591" name="fullString" stackId="1" startPc="268436495"/>
+        <entry endPc="268436794" name="tmpX" stackId="5" startPc="268436596"/>
+        <entry endPc="268436794" name="lastLineStart" stackId="4" startPc="268436596"/>
+        <entry endPc="268436794" name="dim" stackId="3" startPc="268436596"/>
+        <entry arg="true" endPc="268436795" name="fullString" stackId="1" startPc="268436592"/>
+        <entry arg="true" endPc="268436795" name="cursorIx" stackId="2" startPc="268436592"/>
+        <entry endPc="268436879" name="i" stackId="4" startPc="268436822"/>
+        <entry endPc="268436882" name="lastLineStart" stackId="3" startPc="268436800"/>
+        <entry arg="true" endPc="268436883" name="fullString" stackId="1" startPc="268436796"/>
+        <entry arg="true" endPc="268436883" name="cursorIx" stackId="2" startPc="268436796"/>
+        <entry endPc="268437118" name="tmpX" stackId="5" startPc="268436888"/>
+        <entry endPc="268437118" name="lastLineStart" stackId="4" startPc="268436888"/>
+        <entry endPc="268437118" name="dim" stackId="3" startPc="268436888"/>
+        <entry arg="true" endPc="268437119" name="fullString" stackId="1" startPc="268436884"/>
+        <entry arg="true" endPc="268437119" name="cursorIx" stackId="2" startPc="268436884"/>
+        <entry arg="true" endPc="268437162" name="qObjectHub" stackId="1" startPc="268437148"/>
+        <entry arg="true" endPc="268437210" name="i" stackId="1" startPc="268437163"/>
+        <entry endPc="268437612" name="formattedChar" stackId="2" startPc="268437215"/>
+        <entry endPc="268437612" name="fitsOK" stackId="3" startPc="268437215"/>
+        <entry endPc="268437612" name="s" stackId="5" startPc="268437215"/>
+        <entry endPc="268437612" name="curr" stackId="4" startPc="268437215"/>
+        <entry arg="true" endPc="268437613" name="char" stackId="1" startPc="268437211"/>
+        <entry endPc="268437826" name="lastCol" stackId="2" startPc="268437748"/>
+        <entry endPc="268437826" name="curr" stackId="1" startPc="268437748"/>
+        <entry arg="true" endPc="268437886" name="char" stackId="1" startPc="268437834"/>
+        <entry arg="true" endPc="268438642" name="dc" stackId="1" startPc="268438091"/>
+        <entry arg="true" endPc="268438657" name="qBoard" stackId="1" startPc="268438643"/>
+        <entry arg="true" endPc="268439524" name="dc" stackId="1" startPc="268439179"/>
+        <entry arg="true" endPc="268439567" name="text" stackId="1" startPc="268439525"/>
+        <entry arg="true" endPc="268439903" name="b" stackId="1" startPc="268439889"/>
+        <entry arg="true" endPc="268440072" name="char" stackId="1" startPc="268440052"/>
+        <entry arg="true" endPc="268440235" name="i" stackId="1" startPc="268440194"/>
+        <entry arg="true" endPc="268440281" name="qBoard" stackId="1" startPc="268440267"/>
+        <entry endPc="268440959" name="cursorXY" stackId="3" startPc="268440560"/>
+        <entry endPc="268440959" name="fullString" stackId="2" startPc="268440560"/>
+        <entry endPc="268440959" name="cursorIx" stackId="1" startPc="268440560"/>
+        <entry endPc="268441397" name="cursorXY" stackId="3" startPc="268440965"/>
+        <entry endPc="268441397" name="fullString" stackId="2" startPc="268440965"/>
+        <entry endPc="268441397" name="cursorIx" stackId="1" startPc="268440965"/>
+        <entry endPc="268441504" name="qObjectHub" stackId="1" startPc="268441417"/>
+        <entry arg="true" endPc="268442468" name="mode" stackId="1" startPc="268442454"/>
+        <entry arg="true" endPc="268442511" name="qObjectHub" stackId="1" startPc="268442497"/>
+        <entry arg="true" endPc="268442838" name="way" stackId="1" startPc="268442538"/>
+        <entry arg="true" endPc="268443023" name="qBoard" stackId="1" startPc="268442991"/>
+        <entry endPc="268443327" name="key" stackId="2" startPc="268443028"/>
+        <entry arg="true" endPc="268443328" name="event" stackId="1" startPc="268443024"/>
+        <entry endPc="268443482" name="i" stackId="1" startPc="268443400"/>
+        <entry endPc="268444519" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268444332"/>
+        <entry arg="true" endPc="268444520" name="dc" stackId="1" startPc="268444320"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="103" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/QBoardDelegate" offset="286" parentId="globals" symbolId="QBoardDelegate" type="class"/>
+        <dataEntry label="globals/QObjectHub" offset="453" parentId="globals" symbolId="QObjectHub" type="class"/>
+        <dataEntry label="globals/QPad" offset="532" parentId="globals" symbolId="QPad" type="class"/>
+        <dataEntry label="globals/QManO" offset="619" parentId="globals" symbolId="QManO" type="class"/>
+        <dataEntry label="globals/JoyStick" offset="754" parentId="globals" symbolId="JoyStick" type="class"/>
+        <dataEntry label="globals/QBoard" offset="953" parentId="globals" symbolId="QBoard" type="class"/>
+        <dataEntry label="globals/QBoard/statics" offset="1064" parentId="globals" symbolId="globals/QBoard" type="class"/>
+        <dataEntry label="globals/Rez" offset="1119" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1198" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1245" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1276" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1307" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1346" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1377" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/QBox" offset="1416" parentId="globals" symbolId="QBox" type="class"/>
+        <dataEntry label="globals/QBoardApp" offset="1487" parentId="globals" symbolId="QBoardApp" type="class"/>
+        <dataEntry label="globals/Qb" offset="1558" parentId="globals" symbolId="Qb" type="class"/>
+        <dataEntry label="globals/QBoxO" offset="1621" parentId="globals" symbolId="QBoxO" type="class"/>
+        <dataEntry label="globals/FrontDelegate" offset="1812" parentId="globals" symbolId="FrontDelegate" type="class"/>
+        <dataEntry label="globals/EditMan" offset="1867" parentId="globals" symbolId="EditMan" type="class"/>
+        <dataEntry label="globals/QPadUtil" offset="1986" parentId="globals" symbolId="QPadUtil" type="class"/>
+        <dataEntry label="globals/TypeMan" offset="2097" parentId="globals" symbolId="TypeMan" type="class"/>
+        <dataEntry label="globals/Front" offset="2256" parentId="globals" symbolId="Front" type="class"/>
+        <dataEntry label="globals/QBoardConst" offset="2311" parentId="globals" symbolId="QBoardConst" type="class"/>
+        <dataEntry label="globals/QBoardConst/statics" offset="2358" parentId="globals" symbolId="globals/QBoardConst" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435788" name="doPaintQBoardGrid" parent="Qb" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436131" name="doCharacterLayout" parent="Qb" startPc="268435789">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444730" name="&lt;init&gt;" parent="Qb" startPc="268444730">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436134" name="initialize" parent="Qb" startPc="268436132">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436157" name="initialize" parent="QBoardApp" startPc="268436135">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436162" name="onStart" parent="QBoardApp" startPc="268436158">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436167" name="onStop" parent="QBoardApp" startPc="268436163">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436247" name="getInitialView" parent="QBoardApp" startPc="268436168">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444729" name="&lt;init&gt;" parent="QBoardApp" startPc="268444711">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436276" name="getApp" startPc="268436248">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436299" name="initialize" parent="FrontDelegate" startPc="268436277">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436389" name="onSelect" parent="FrontDelegate" startPc="268436300">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444790" name="&lt;init&gt;" parent="FrontDelegate" startPc="268444772">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268445725" name="&lt;init&gt;" parent="globals/QBoardConst" startPc="268444881">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444880" name="&lt;init&gt;" parent="QBoardConst" startPc="268444880">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436392" name="initialize" parent="QBoardConst" startPc="268436390">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436406" name="getQBoxO" parent="QObjectHub" startPc="268436393">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436420" name="getQManO" parent="QObjectHub" startPc="268436407">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444601" name="&lt;init&gt;" parent="QObjectHub" startPc="268444541">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436423" name="initialize" parent="QObjectHub" startPc="268436421">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436494" name="initialize" parent="QPadUtil" startPc="268436424">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436591" name="&lt;globals/QPadUtil/&lt;&gt;getLastLineStart&gt;" parent="QPadUtil" startPc="268436495">
+            <param id="fullString"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436795" name="getCursorXY" parent="QPadUtil" startPc="268436592">
+            <param id="fullString"/>
+            <param id="cursorIx"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436883" name="&lt;globals/QPadUtil/&lt;&gt;getEditLineStart&gt;" parent="QPadUtil" startPc="268436796">
+            <param id="fullString"/>
+            <param id="cursorIx"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437119" name="getEditCursorXY" parent="QPadUtil" startPc="268436884">
+            <param id="fullString"/>
+            <param id="cursorIx"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437133" name="getCursorX" parent="QPadUtil" startPc="268437120">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437147" name="getCursorY" parent="QPadUtil" startPc="268437134">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444812" name="&lt;init&gt;" parent="QPadUtil" startPc="268444812">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437162" name="initialize" parent="TypeMan" startPc="268437148">
+            <param id="qObjectHub"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437210" name="doAppendChar" parent="TypeMan" startPc="268437163">
+            <param id="i"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437613" name="appendChar" parent="TypeMan" startPc="268437211">
+            <param id="char"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437833" name="deleteLast" parent="TypeMan" startPc="268437614">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437886" name="&lt;globals/TypeMan/&lt;&gt;textFits&gt;" parent="TypeMan" startPc="268437834">
+            <param id="char"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437941" name="&lt;globals/TypeMan/&lt;&gt;getBoxedChar&gt;" parent="TypeMan" startPc="268437887">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437967" name="getIx" parent="TypeMan" startPc="268437942">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437993" name="getFullString" parent="TypeMan" startPc="268437968">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438016" name="getQManO" parent="TypeMan" startPc="268437994">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438039" name="getQBoxO" parent="TypeMan" startPc="268438017">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438053" name="&lt;globals/TypeMan/&lt;&gt;getCurrentLine&gt;" parent="TypeMan" startPc="268438040">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438067" name="&lt;globals/TypeMan/&lt;&gt;getLineArray&gt;" parent="TypeMan" startPc="268438054">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444860" name="&lt;init&gt;" parent="TypeMan" startPc="268444813">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438090" name="initialize" parent="Front" startPc="268438068">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438642" name="onUpdate" parent="Front" startPc="268438091">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444879" name="&lt;init&gt;" parent="Front" startPc="268444861">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438657" name="initialize" parent="QBox" startPc="268438643">
+            <param id="qBoard"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439017" name="paintQBox" parent="QBox" startPc="268438658">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439031" name="&lt;globals/QBox/&lt;&gt;getQBoard&gt;" parent="QBox" startPc="268439018">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444710" name="&lt;init&gt;" parent="QBox" startPc="268444710">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439178" name="initialize" parent="QBoard" startPc="268439032">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439524" name="onUpdate" parent="QBoard" startPc="268439179">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439567" name="getTextWH" parent="QBoard" startPc="268439525">
+            <param id="text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439608" name="getFontH" parent="QBoard" startPc="268439568">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439622" name="&lt;globals/QBoard/&lt;&gt;getQPad&gt;" parent="QBoard" startPc="268439609">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439636" name="&lt;globals/QBoard/&lt;&gt;getQb&gt;" parent="QBoard" startPc="268439623">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439650" name="getJoyStick" parent="QBoard" startPc="268439637">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444684" name="&lt;init&gt;" parent="globals/QBoard" startPc="268444684">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444683" name="&lt;init&gt;" parent="QBoard" startPc="268444665">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439692" name="getQBoxI" parent="QBoxO" startPc="268439651">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439716" name="addQBoxR" parent="QBoxO" startPc="268439693">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439740" name="dropQBoxR" parent="QBoxO" startPc="268439717">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439764" name="addQBoxC" parent="QBoxO" startPc="268439741">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439788" name="dropQBoxC" parent="QBoxO" startPc="268439765">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439813" name="sendToRight" parent="QBoxO" startPc="268439789">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439831" name="sendToLeft" parent="QBoxO" startPc="268439814">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439856" name="sendToBottom" parent="QBoxO" startPc="268439832">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439874" name="sendToTop" parent="QBoxO" startPc="268439857">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439888" name="isEditMode" parent="QBoxO" startPc="268439875">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439903" name="setEditMode" parent="QBoxO" startPc="268439889">
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439921" name="getQBoxW" parent="QBoxO" startPc="268439904">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439939" name="getQBoxH" parent="QBoxO" startPc="268439922">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439953" name="getQBoxC" parent="QBoxO" startPc="268439940">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439967" name="getQBoxR" parent="QBoxO" startPc="268439954">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444771" name="&lt;init&gt;" parent="QBoxO" startPc="268444731">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439970" name="initialize" parent="QBoxO" startPc="268439968">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439994" name="addIx" parent="QManO" startPc="268439971">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440018" name="dropIx" parent="QManO" startPc="268439995">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440051" name="resetIx" parent="QManO" startPc="268440019">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440072" name="append" parent="QManO" startPc="268440052">
+            <param id="char"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440130" name="removeLast" parent="QManO" startPc="268440073">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440193" name="getLast" parent="QManO" startPc="268440131">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440235" name="getFrom" parent="QManO" startPc="268440194">
+            <param id="i"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440249" name="getIx" parent="QManO" startPc="268440236">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440263" name="getFullString" parent="QManO" startPc="268440250">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444643" name="&lt;init&gt;" parent="QManO" startPc="268444603">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440266" name="initialize" parent="QManO" startPc="268440264">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440281" name="initialize" parent="QPad" startPc="268440267">
+            <param id="qBoard"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440555" name="paint" parent="QPad" startPc="268440282">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440960" name="doPrintFullString" parent="QPad" startPc="268440556">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441398" name="doEditFullString" parent="QPad" startPc="268440961">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441412" name="&lt;globals/QPad/&lt;&gt;getQBoard&gt;" parent="QPad" startPc="268441399">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444602" name="&lt;init&gt;" parent="QPad" startPc="268444602">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441505" name="initialize" parent="JoyStick" startPc="268441413">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441680" name="toggleEditMode" parent="JoyStick" startPc="268441506">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441802" name="moveQBoxUp" parent="JoyStick" startPc="268441681">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441937" name="moveQBoxDown" parent="JoyStick" startPc="268441803">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442059" name="moveQBoxLeft" parent="JoyStick" startPc="268441938">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442194" name="moveQBoxRight" parent="JoyStick" startPc="268442060">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442232" name="moveCursorRight" parent="JoyStick" startPc="268442195">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442270" name="moveCursorLeft" parent="JoyStick" startPc="268442233">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442296" name="deleteLast" parent="JoyStick" startPc="268442271">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442334" name="addSpace" parent="JoyStick" startPc="268442297">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442369" name="getQBoxI" parent="JoyStick" startPc="268442335">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442404" name="getQBoxC" parent="JoyStick" startPc="268442370">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442439" name="getQBoxR" parent="JoyStick" startPc="268442405">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442453" name="getMode" parent="JoyStick" startPc="268442440">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442468" name="setMode" parent="JoyStick" startPc="268442454">
+            <param id="mode"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442482" name="getTypeMan" parent="JoyStick" startPc="268442469">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442496" name="getEditMan" parent="JoyStick" startPc="268442483">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444664" name="&lt;init&gt;" parent="JoyStick" startPc="268444644">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442511" name="initialize" parent="EditMan" startPc="268442497">
+            <param id="qObjectHub"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442537" name="resetCursorIx" parent="EditMan" startPc="268442512">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442838" name="moveCursor" parent="EditMan" startPc="268442538">
+            <param id="way"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442892" name="getCursedChar" parent="EditMan" startPc="268442839">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442918" name="getIx" parent="EditMan" startPc="268442893">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442944" name="getFullString" parent="EditMan" startPc="268442919">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442967" name="getQManO" parent="EditMan" startPc="268442945">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442990" name="getQBoxO" parent="EditMan" startPc="268442968">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444811" name="&lt;init&gt;" parent="EditMan" startPc="268444791">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443023" name="initialize" parent="QBoardDelegate" startPc="268442991">
+            <param id="qBoard"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443328" name="onKey" parent="QBoardDelegate" startPc="268443024">
+            <param id="event"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443505" name="onMenu" parent="QBoardDelegate" startPc="268443329">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443633" name="onSelect" parent="QBoardDelegate" startPc="268443506">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443669" name="onBack" parent="QBoardDelegate" startPc="268443634">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443677" name="onNextPage" parent="QBoardDelegate" startPc="268443670">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443685" name="onPreviousPage" parent="QBoardDelegate" startPc="268443678">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268443759" name="&lt;globals/QBoardDelegate/&lt;&gt;doUp&gt;" parent="QBoardDelegate" startPc="268443686">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268443833" name="&lt;globals/QBoardDelegate/&lt;&gt;doDown&gt;" parent="QBoardDelegate" startPc="268443760">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443952" name="doRight" parent="QBoardDelegate" startPc="268443834">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444071" name="doLeft" parent="QBoardDelegate" startPc="268443953">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444125" name="doFind" parent="QBoardDelegate" startPc="268444072">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268444215" name="&lt;globals/QBoardDelegate/&lt;&gt;doAddSpace&gt;" parent="QBoardDelegate" startPc="268444126">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268444305" name="&lt;globals/QBoardDelegate/&lt;&gt;doDeleteLast&gt;" parent="QBoardDelegate" startPc="268444216">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444319" name="getQBoard" parent="QBoardDelegate" startPc="268444306">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444540" name="&lt;init&gt;" parent="QBoardDelegate" startPc="268444522">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444704" name="&lt;init&gt;" parent="Drawables" startPc="268444704">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444706" name="&lt;init&gt;" parent="Fonts" startPc="268444706">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444708" name="&lt;init&gt;" parent="JsonData" startPc="268444708">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444520" name="MainLayout" parent="Layouts" startPc="268444320">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444707" name="&lt;init&gt;" parent="Layouts" startPc="268444707">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444705" name="&lt;init&gt;" parent="Menus" startPc="268444705">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444709" name="&lt;init&gt;" parent="Strings" startPc="268444709">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268444703" name="&lt;init&gt;" parent="Rez" startPc="268444685">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
